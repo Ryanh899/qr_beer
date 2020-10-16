@@ -1,7 +1,7 @@
-$(document).ready(function () {
+// $(document).ready(function () {
     
-    setTimeout(function () {
-        $('#wine-modal').modal('show'); 
+//     setTimeout(function () {
+//         $('#wine-modal').modal('show'); 
 
-    }, 500); 
-})
+//     }, 500); 
+// })
